@@ -10,7 +10,7 @@ python keylogger.py
 The escape key is used to break out of the loop, you probably do not always want that.
 <br>
 
-Using `pyInstaller` to create an excuatble is also possible.
+Using `pyInstaller` to create an executable is also possible.
 <br>
 ```bash
 pip install pyinstaller
